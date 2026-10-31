@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst from **Rishikesh, Ut
 - 🛠️ **My Toolkit:** Excel, Power BI, Tableau, SQL, Basic Python, MS Office, Google Sheet and Zoho Sheets.
 - 📈 **What I Enjoy:** Exploring datasets, building interactive dashboards, identifying trends, solving analytical problems, and converting complex data into actionable insights.
 - 🌱 **Currently Exploring:** Salesforce CRM, business analytics, and continuously strengthening my technical and analytical skills.
-- 🎯 **Career Goal:** Exploring opportunities in Data Analytics, Business Intelligence, and MIS where I can apply my knowledge, collaborate with talented teams, and grow through real-world challenges.
+- 🎯 **Career Goal:** Exploring and actively seeking opportunities in Data Analytics, Business Analytics, Business Intelligence, and related roles where I can apply my knowledge, collaborate with talented teams, and grow through real-world challenges.
 
 ### 💡 What You'll Find Here
 
